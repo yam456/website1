@@ -1,0 +1,86 @@
+body{
+    width:500px;
+    height:200px;
+    background:linear-gradient(red,purple,blue,green,gray);
+  
+    
+}
+#one{
+    color:black;
+    text-align: center;
+    width:370%;
+    font-style: italic;
+    font-size:30px;
+}
+a{
+    color:aqua;
+    text-align: center;
+    width:200%;
+    font-style: italic;
+    font-weight:285%;     
+    font-size:15px;  
+}
+#three{
+    color:black;
+    text-align: center;
+    width:370%;
+    font-style: italic;
+    font-size:25px;
+   
+}
+#two{
+    color:black;
+    text-align: center;
+    width:370%;
+    font-style: italic;
+    font-size:25px;
+    
+}
+p{
+    color:black;
+    text-align: center;
+    width:370%;
+    font-style: italic;
+    font-size:20px;
+   
+}
+#four{
+
+    color:black;
+    text-align: center;
+    width:35%;
+    font-style: italic;
+    font-size:20px;
+    
+}
+
+img{
+
+    width:20vw;
+    height:20vh;
+    float:right;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom:10px;
+
+    
+}
+#five{
+   
+    color:black;
+    font-size:25px;
+    width:50%;
+    font-style: italic;
+    font-size:15px;
+}
+#six{
+   
+    color:purple;
+    text-align: center;
+    width:390%;
+    font-size:25px;
+    font-style: italic;
+    padding-bottom:5px;
+   
+
+}
